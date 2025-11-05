@@ -42,10 +42,10 @@ The device implements two main categories of functions:
 ### **1. Block Diagram**
 ![Block Diagram](./fig/Block_Diagram.png)
 ### **2. Schematics:**
-![Schematics](/Schematics/Whole%20system.png)
+![Schematics](./Schematics/Whole%20system.png)
 ### **3. Flow Chart:**
 
-<img src="fig/MainFlowEnglish.png" alt="FlowChart" height="500" />
+<img src="./fig/MainFlowEnglish.png" alt="FlowChart" height="500" />
 
 ### **4. Device:**
 **Top-side**
