@@ -40,7 +40,7 @@ The device implements two main categories of functions:
 ## 🔌 Design and Implementation
 
 ### **1. Block Diagram**
-![Block Diagram](/Block%20Diagram%20with%20car.png)
+![Block Diagram](./fig/Block_Diagram.png)
 ### **2. Schematics:**
 ![Schematics](/Schematics/Whole%20system.png)
 ### **3. Flow Chart:**
