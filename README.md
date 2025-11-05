@@ -59,7 +59,7 @@ The device implements two main categories of functions:
 ### **5. Operation:** 
 
 **Main menu after start the device and connect to the OBD-II target**
-![Main Menu](/Mainmenu.jpg)
+![Main Menu](./fig/Mainmenu.jpg)
 
 **Live Data feature**
 ![Live data](./fig/Live_Data_1.jpg)
