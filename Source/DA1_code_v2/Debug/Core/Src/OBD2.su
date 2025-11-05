@@ -1,0 +1,10 @@
+../Core/Src/OBD2.c:50:6:OBD2_DTC	16	static
+../Core/Src/OBD2.c:59:6:OBD2_VIN	16	static
+../Core/Src/OBD2.c:70:6:OBD2_SendPID	24	static
+../Core/Src/OBD2.c:80:6:OBD2_SendPIDs	8	static
+../Core/Src/OBD2.c:87:6:OBD2_SendFC	16	static
+../Core/Src/OBD2.c:95:6:CAN_SF_Handler	16	static
+../Core/Src/OBD2.c:158:6:CAN_FF_Handler	24	static
+../Core/Src/OBD2.c:182:6:CAN_CF_Handler	16	static
+../Core/Src/OBD2.c:207:6:OBD2_Config	8	static
+../Core/Src/OBD2.c:232:6:OBD2_init	8	static

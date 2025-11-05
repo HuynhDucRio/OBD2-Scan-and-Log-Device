@@ -1,0 +1,5 @@
+../Core/Src/SDlog.c:24:6:SDLog_Init	16	static
+../Core/Src/SDlog.c:42:6:SDLog_AddEntry	104	static
+../Core/Src/SDlog.c:58:6:SDLog_Flush	16	static
+../Core/Src/SDlog.c:68:9:SDLog_IsBufferNearlyFull	4	static
+../Core/Src/SDlog.c:73:6:log_data_to_csv	272	static

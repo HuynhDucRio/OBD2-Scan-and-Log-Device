@@ -1,0 +1,15 @@
+../Core/Src/UI.c:21:6:printValueWithUnit	64	static
+../Core/Src/UI.c:32:6:showData	8	static
+../Core/Src/UI.c:57:6:ShowReadDataScreen	24	static
+../Core/Src/UI.c:96:6:ShowDTCReadingScreen	24	static
+../Core/Src/UI.c:104:6:ShowDTCCheckScreen	56	static
+../Core/Src/UI.c:126:6:ShowVINReadingScreen	24	static
+../Core/Src/UI.c:135:6:ShowVINScreen	56	static
+../Core/Src/UI.c:146:6:ShowLoggingScreen	24	static
+../Core/Src/UI.c:155:6:ShowConnectingScreen	24	static
+../Core/Src/UI.c:161:6:ShowMainMenu	32	static
+../Core/Src/UI.c:181:6:display_init	8	static
+../Core/Src/UI.c:189:6:ShowInitScreen	24	static
+../Core/Src/UI.c:204:6:printNumber	56	static
+../Core/Src/UI.c:230:6:printTime	48	static
+../Core/Src/UI.c:245:6:DecodeDTC	24	static
